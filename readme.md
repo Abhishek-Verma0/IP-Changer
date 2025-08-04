@@ -54,3 +54,6 @@ sudo ./IP.Changer.sh
 ---
 - First, enter how long you want to stay on one server before changing the IP.
 Then, enter how many times to change the IP. Enter 0 for unlimited changes.
+
+---
+## If automatic installation of tor fails please proceed manually tor on kali [Tor Installation](https://www.kali.org/docs/tools/tor/)
